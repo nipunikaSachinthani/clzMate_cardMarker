@@ -82,7 +82,7 @@ export  class QRScan extends Component {
       .done();
     }
     handleTalkStart() {
-      Vibration.vibrate(); // I reach this call and it works
+      Vibration.vibrate(); // 
     }
   
 

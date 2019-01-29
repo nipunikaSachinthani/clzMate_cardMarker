@@ -18,6 +18,9 @@ import {
 } from 'react-native';
 import JwtDecode from 'jwt-decode';
 import {Actions} from 'react-native-router-flux';
+import ValidationComponent from 'react-native-form-validator';
+import validator from 'validator';
+
 
 export default class Login extends Component {
     
@@ -28,11 +31,14 @@ export default class Login extends Component {
     this.state = {
         email :'',
         password :'',
+    };
+        //this._onPress = this._onPress.bind(this)
+
         //validEmail:false,
         //emailAddress:''
         
     }
-}
+
       
 
     // handleEmailChange(email){
@@ -119,6 +125,8 @@ export default class Login extends Component {
   }
 
   login = () => {
+
+    
       console.log("login")
       console.log(this.state.email)
       console.log(this.state.password)
@@ -128,10 +136,10 @@ export default class Login extends Component {
             'Content-type':'application/json',
           },
           body: JSON.stringify({
-              email : this.state.email ,
-              password : this.state.password,
-            // email: "nipunika@gmail.com",
-            // password: "password"
+            //   email : this.state.email ,
+            //   password : this.state.password,
+            email: "nipunika@gmail.com",
+            password: "password"
           })
       })
 
@@ -157,6 +165,8 @@ export default class Login extends Component {
         .done();
     }
 }
+
+
 
 const styles = StyleSheet.create({
     wrapper:{
