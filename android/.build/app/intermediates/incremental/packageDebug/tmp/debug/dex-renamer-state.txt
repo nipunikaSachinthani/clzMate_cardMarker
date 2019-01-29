@@ -1,0 +1,4 @@
+#Sun Jan 27 19:04:35 IST 2019
+base.0=E\:\\React_Native\\cardmarker app\\ClzMate_mobile\\android\\.build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

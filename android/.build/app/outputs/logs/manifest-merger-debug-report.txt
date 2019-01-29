@@ -1,0 +1,271 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-date-picker] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-date-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\bf1232561c9c86c44f9ca00fc961ed9f\AndroidManifest.xml:2:1-15:12
+MERGED from [cn.carbswang.android:NumberPickerView:1.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\NumberPickerView-1.1.1.aar\8a9585b140f6634f70401632e6595d60\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\958ca0c905dbb21df77ef8af7646d67d\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\73e780ab90e865247ca5b885810c04c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\714043b3de13f5a419c3665f1269ff00\AndroidManifest.xml:2:1-9:12
+MERGED from [net.time4j:time4j-android:3.42-2018e] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\time4j-android-3.42-2018e.aar\2dffd48929395eea91614234d5a8068c\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\5abf0cd0f7433c99eef3ea624c108ae0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\38c187e90e449b308e050676b0cb2588\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\e8a0d4c0ab979d32c40f87225fc476a9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\816e0632a7d2d7032df849a8990d9699\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\31d65f98131c70083e5515c9c7f1fb67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\77eedb9b090ab2cdb247b4f94acbd64b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\074b908167f37df4b2d021ebe9ab4f8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\96c09b0354d5331aaceedd3f9be8cde7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e52a929043ff2fb08af6fb428ddd7523\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a52e2ae1bf4490a959f8fa41acf44c60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9ed8b41017cdff0ba156250e72c7ece8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7a1029ccfacb1c43e0a883993ec7bf90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\26b4a68e03b5afe718d638679036352e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\b698b96a48dd5a55c66d2c36788779a2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\4dfd9a9e7d76ca0c3f00d6f831bffee9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\a8a9194b38d41b5b4ecfc6df0888a1cc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\1ad5144aa9650177e542638fff2cc3a6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\b46462eeebc5d8a5e2279257510d9b16\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\482a8dae6e165fe81d2ad9c9d443a02c\AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\921ece95d4a26e626d332c0e84d10c9a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\dfce6987736ee61ac2172bd70e2bef56\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\0d1d32ae3f7625fbf2917e64cba52a05\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\84c8a8cfa0848e030edb45491926b6a5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\c1b0f4ac6b774c3d92dd62ead0f68a91\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\cfbace6888f05ff92ce3b92f0bf17018\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c33185aca23d8443e1ced4417e7e8c3d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c0f135aa80832331e3e89d64f3576c20\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0beb500000d16a58d8ad8953bbebe6e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\68976c33653e1fa0120de6ceedc7213b\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:2:5-26
+		INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:6:1-76
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:6:18-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:7:1-77
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:7:18-74
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:8:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\bf1232561c9c86c44f9ca00fc961ed9f\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\bf1232561c9c86c44f9ca00fc961ed9f\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:9:22-63
+application
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:11:5-28:19
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\bf1232561c9c86c44f9ca00fc961ed9f\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\bf1232561c9c86c44f9ca00fc961ed9f\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\714043b3de13f5a419c3665f1269ff00\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\714043b3de13f5a419c3665f1269ff00\AndroidManifest.xml:7:5-20
+MERGED from [net.time4j:time4j-android:3.42-2018e] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\time4j-android-3.42-2018e.aar\2dffd48929395eea91614234d5a8068c\AndroidManifest.xml:12:5-20
+MERGED from [net.time4j:time4j-android:3.42-2018e] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\time4j-android-3.42-2018e.aar\2dffd48929395eea91614234d5a8068c\AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\5abf0cd0f7433c99eef3ea624c108ae0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\5abf0cd0f7433c99eef3ea624c108ae0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\38c187e90e449b308e050676b0cb2588\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\38c187e90e449b308e050676b0cb2588\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\e8a0d4c0ab979d32c40f87225fc476a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\e8a0d4c0ab979d32c40f87225fc476a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\816e0632a7d2d7032df849a8990d9699\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\816e0632a7d2d7032df849a8990d9699\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\b46462eeebc5d8a5e2279257510d9b16\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\b46462eeebc5d8a5e2279257510d9b16\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\482a8dae6e165fe81d2ad9c9d443a02c\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\482a8dae6e165fe81d2ad9c9d443a02c\AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\921ece95d4a26e626d332c0e84d10c9a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\921ece95d4a26e626d332c0e84d10c9a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\0d1d32ae3f7625fbf2917e64cba52a05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\0d1d32ae3f7625fbf2917e64cba52a05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\84c8a8cfa0848e030edb45491926b6a5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\84c8a8cfa0848e030edb45491926b6a5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\c1b0f4ac6b774c3d92dd62ead0f68a91\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\c1b0f4ac6b774c3d92dd62ead0f68a91\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\cfbace6888f05ff92ce3b92f0bf17018\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\cfbace6888f05ff92ce3b92f0bf17018\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:13:7-39
+	android:icon
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:12:7-38
+activity#com.testsix.MainActivity
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-date-picker] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-date-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-date-picker] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-date-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\bf1232561c9c86c44f9ca00fc961ed9f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\bf1232561c9c86c44f9ca00fc961ed9f\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.carbswang.android:NumberPickerView:1.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\NumberPickerView-1.1.1.aar\8a9585b140f6634f70401632e6595d60\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.carbswang.android:NumberPickerView:1.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\NumberPickerView-1.1.1.aar\8a9585b140f6634f70401632e6595d60\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\958ca0c905dbb21df77ef8af7646d67d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\958ca0c905dbb21df77ef8af7646d67d\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\73e780ab90e865247ca5b885810c04c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\73e780ab90e865247ca5b885810c04c8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\714043b3de13f5a419c3665f1269ff00\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\714043b3de13f5a419c3665f1269ff00\AndroidManifest.xml:5:5-44
+MERGED from [net.time4j:time4j-android:3.42-2018e] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\time4j-android-3.42-2018e.aar\2dffd48929395eea91614234d5a8068c\AndroidManifest.xml:8:5-10:41
+MERGED from [net.time4j:time4j-android:3.42-2018e] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\time4j-android-3.42-2018e.aar\2dffd48929395eea91614234d5a8068c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\5abf0cd0f7433c99eef3ea624c108ae0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\5abf0cd0f7433c99eef3ea624c108ae0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\38c187e90e449b308e050676b0cb2588\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\38c187e90e449b308e050676b0cb2588\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\e8a0d4c0ab979d32c40f87225fc476a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\e8a0d4c0ab979d32c40f87225fc476a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\816e0632a7d2d7032df849a8990d9699\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\816e0632a7d2d7032df849a8990d9699\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\31d65f98131c70083e5515c9c7f1fb67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\31d65f98131c70083e5515c9c7f1fb67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\77eedb9b090ab2cdb247b4f94acbd64b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\77eedb9b090ab2cdb247b4f94acbd64b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\074b908167f37df4b2d021ebe9ab4f8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\074b908167f37df4b2d021ebe9ab4f8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\96c09b0354d5331aaceedd3f9be8cde7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\96c09b0354d5331aaceedd3f9be8cde7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e52a929043ff2fb08af6fb428ddd7523\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e52a929043ff2fb08af6fb428ddd7523\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a52e2ae1bf4490a959f8fa41acf44c60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a52e2ae1bf4490a959f8fa41acf44c60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9ed8b41017cdff0ba156250e72c7ece8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9ed8b41017cdff0ba156250e72c7ece8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7a1029ccfacb1c43e0a883993ec7bf90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7a1029ccfacb1c43e0a883993ec7bf90\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\26b4a68e03b5afe718d638679036352e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\26b4a68e03b5afe718d638679036352e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\b698b96a48dd5a55c66d2c36788779a2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\b698b96a48dd5a55c66d2c36788779a2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\4dfd9a9e7d76ca0c3f00d6f831bffee9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\4dfd9a9e7d76ca0c3f00d6f831bffee9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\a8a9194b38d41b5b4ecfc6df0888a1cc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\a8a9194b38d41b5b4ecfc6df0888a1cc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\1ad5144aa9650177e542638fff2cc3a6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\1ad5144aa9650177e542638fff2cc3a6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\b46462eeebc5d8a5e2279257510d9b16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\b46462eeebc5d8a5e2279257510d9b16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\921ece95d4a26e626d332c0e84d10c9a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\921ece95d4a26e626d332c0e84d10c9a\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\dfce6987736ee61ac2172bd70e2bef56\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\dfce6987736ee61ac2172bd70e2bef56\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\0d1d32ae3f7625fbf2917e64cba52a05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\0d1d32ae3f7625fbf2917e64cba52a05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\84c8a8cfa0848e030edb45491926b6a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\84c8a8cfa0848e030edb45491926b6a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\c1b0f4ac6b774c3d92dd62ead0f68a91\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\c1b0f4ac6b774c3d92dd62ead0f68a91\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\cfbace6888f05ff92ce3b92f0bf17018\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\cfbace6888f05ff92ce3b92f0bf17018\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c33185aca23d8443e1ced4417e7e8c3d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c33185aca23d8443e1ced4417e7e8c3d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c0f135aa80832331e3e89d64f3576c20\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c0f135aa80832331e3e89d64f3576c20\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0beb500000d16a58d8ad8953bbebe6e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0beb500000d16a58d8ad8953bbebe6e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\68976c33653e1fa0120de6ceedc7213b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\68976c33653e1fa0120de6ceedc7213b\AndroidManifest.xml:20:5-44
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] E:\React_Native\cardmarker app\ClzMate_mobile\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\38c187e90e449b308e050676b0cb2588\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\38c187e90e449b308e050676b0cb2588\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\38c187e90e449b308e050676b0cb2588\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\38c187e90e449b308e050676b0cb2588\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\816e0632a7d2d7032df849a8990d9699\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\816e0632a7d2d7032df849a8990d9699\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nipunika Liyanagama\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\816e0632a7d2d7032df849a8990d9699\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from E:\React_Native\cardmarker app\ClzMate_mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
