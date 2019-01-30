@@ -18,11 +18,7 @@ import {
 } from 'react-native';
 import { Actions } from 'react-native-router-flux';
 import DatePicker from 'react-native-date-picker';
-//import Picker from 'react-native-picker';
-//import ModalDropdown from 'react-native-modal-dropdown';
-//import DropdownMenu from 'react-native-dropdown-menu';
 
-//import {Menu, MenuContext, MenuProvider, MenuOptions, MenuOption, MenuTrigger} from "react-native-popup-menu";
 
 export default class Profile extends Component {
 
@@ -36,7 +32,7 @@ export default class Profile extends Component {
 
 
 
-            //Dropdown:"Select Class",
+           
 
 
         };
@@ -67,78 +63,16 @@ export default class Profile extends Component {
                             onDateChange={date => this.setState({ date })}
                         />
 
-                        {/* <TextInput
-            style = {styles.textInput} 
-            keyboardType = 'default'
-              placeholder = 'Enter Class ID'
-              placeholderTextColor = 'black'
-              underlineColorAndroid = 'transparent' 
-            onChangeText={ (clz) => this.setState({clz})
-            }
-            
-            /> */}
-
-                        {/* <ModalDropdown 
-             
-            
-            style={{height: 40}}
-            //style={{borderColor: 'rgba(128,128,0,0.7)',}}
-            //style={{backgroundColor :'rgba(128,128,0,0.7)'}}
-            textStyle={{fontSize: 20, paddingTop: 8, paddingBottom: 8}}
-            dropdownStyle={styles.dropdown}
-            dropdownTextStyle={{fontSize: 30}}
-            dropdownTextStyle={{ fontWeight: 30}}
-            containerStyle={{width:140,zIndex:60,
-                top:20,}}
-            options={this.state.status_option}
-            defaultIndex={-1}
-            defaultValue={'Select Class'}
-            //fontWeight: "bold",
-            //backgroundColor = {'rgba(128,128,0,0.7)'}
-            //margin : 15,
-            //borderColor: 'rgba(128,128,0,0.7)',
-            //borderWidth :10,
-            
-            /> */}
-                        {/* <MenuContext style={styles.container}>
-            <View>
-              
-             <MenuProvider style = {{flexDirection: "column", padding: 30}}>
-             </MenuProvider>
-
-             <Menu> onSelect = {value => {this.state.Dropdown} } </Menu>
-
-             <MenuTrigger>
-                 <Text style={styles.topic}>
-                 {this.state.Dropdown}</Text>
-             </MenuTrigger>
-            
-             <MenuOptions>
-                 <MenuOption value= {"Class101"}>
-                 <Text style={styles.menuContent}>Class101</Text>
-                 </MenuOption>
-
-                 <MenuOption value= {"Class102"}>
-                 <Text style={styles.menuContent}>Class102</Text>
-                 </MenuOption>
-
-                 <MenuOption value= {"Class103"}>
-                 <Text style={styles.menuContent}>Class103</Text>
-                 </MenuOption>
-                 
-             </MenuOptions>
-             
-             </View>
-             </MenuContext>    */}
+                      
 
 
                         <Picker
                             selectedValue={this.state.class}
-                            style={{ height: 50, width: 150 }}
+                            style={{ height: 50, width: 200 }}
                             onValueChange={(itemValue, itemIndex) => this.setState({ class: itemValue })}>
                             <Picker.Item label="Select Class" value="" />
                             {this.state.clz.map((val, key) => {
-                                return <Picker.Item label={val.subjectName} value={val.clzNo} key={key} />
+                                return <Picker.Item label={val.clzNo} value={val.clzNo} key={key} />
                             })}
                         </Picker>
 
@@ -213,9 +147,7 @@ export default class Profile extends Component {
     getClasses = () => {
 
 
-        // console.log("login")
-        // console.log(this.state.email)
-        // console.log(this.state.password)
+        
         fetch('https://clzmate.herokuapp.com/clz/', {
             method: 'GET',
             headers: {
@@ -278,17 +210,9 @@ const styles = StyleSheet.create({
     },
 
     btn: {
-        //     alignSelf: 'stretch',
+        
         backgroundColor: 'rgba(128,128,0,1)',
-        //   padding: 20,
-        alignItems: 'center',
-        //  marginBottom: 30,
-        //   //justifyContent: 'space-between',
-        //  // alignSelf: 'flex-end',
-        //     position: 'absolute',
-        //     //bottom:0,
-        //     //left:0,
-        //flex: 1,
+        alignItems: 'center', 
         justifyContent: 'center',
         marginBottom: 10,
         width: '100%',
@@ -305,20 +229,9 @@ const styles = StyleSheet.create({
         fontSize: 26,
         fontWeight: "bold",
         marginBottom: 60,
-        color: 'rgb(255,255,255)',
+        color: 'rgb(0,0,0)',
 
     },
 
-    // dropdown :{
-    //     //flex : '100%',
-    //    // fontSize : 26,
-    //     fontWeight: "bold",
-    //     backgroundColor : 'rgba(128,128,0,0.7)',
-    //     margin : 15,
-    //     borderColor: 'rgba(128,128,0,0.7)',
-    //     borderWidth :10,
-    //     //width : 50,
-    //     //height : 20,
-
-    // },
+   
 });

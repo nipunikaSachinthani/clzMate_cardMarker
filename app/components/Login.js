@@ -18,8 +18,8 @@ import {
 } from 'react-native';
 import JwtDecode from 'jwt-decode';
 import {Actions} from 'react-native-router-flux';
-import ValidationComponent from 'react-native-form-validator';
-import validator from 'validator';
+// import ValidationComponent from 'react-native-form-validator';
+// import validator from 'validator';
 
 
 export default class Login extends Component {
@@ -31,13 +31,30 @@ export default class Login extends Component {
     this.state = {
         email :'',
         password :'',
+       // validator : false,
+
     };
         //this._onPress = this._onPress.bind(this)
 
         //validEmail:false,
         //emailAddress:''
         
-    }
+}
+
+// validate = (text) => {
+//     console.log(text);
+//     let reg = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/ ;
+//     if(reg.test(text) === false)
+//     {
+//     console.log("Email is Not Correct");
+//     this.setState({email:text})
+//     return false;
+//       }
+//     else {
+//       this.setState({email:text})
+//       console.log("Email is Correct");
+//     }
+//     }
 
       
 
@@ -94,7 +111,7 @@ export default class Login extends Component {
             <TouchableOpacity  
                 style = {styles.btn}
                 onPress = {this.login}
-                // disabled={!this.state.email && !this.state.password}
+                disabled={!this.state.email && !this.state.password}
                 > 
                 <Text style={styles.logText}> Log in </Text>
             </TouchableOpacity>
@@ -136,10 +153,10 @@ export default class Login extends Component {
             'Content-type':'application/json',
           },
           body: JSON.stringify({
-            //   email : this.state.email ,
-            //   password : this.state.password,
-            email: "nipunika@gmail.com",
-            password: "password"
+              email : this.state.email ,
+              password : this.state.password,
+            // email: "nipunika@gmail.com",
+            // password: "password"
           })
       })
 
